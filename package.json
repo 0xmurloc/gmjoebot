@@ -1,0 +1,10 @@
+{
+  "name": "gmjoebot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.13.2",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
